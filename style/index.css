@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 *{
 
     margin: 0;
@@ -103,7 +103,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .secondHalf{
-    width: 30%;
+    width: 50%;
 }
 
 .secondHalf img{
@@ -121,7 +121,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .text-small{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .text-medium
@@ -160,7 +160,7 @@ font-family: 'Ubuntu', sans-serif;
     max-width: 80%;
     margin: auto;
     padding-top: 20px;
-    background-image: linear-gradient(to right, red , yellow)
+    background-image: linear-gradient(to right, rgb(240, 234, 234) , rgb(238, 238, 211))
 }
 
 .sectionleft{
@@ -180,13 +180,22 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .thumbnail img{
-width: 250px;
-
-border-radius: 26px;
+width: 235px;
+border-radius: 15px 50px 30px;
 margin-top: 19px;
-padding-left: 45.6%;
+
 }
 
+.thumbnail_1 img
+{
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .contain{
     background-color: darkgray;
     height:533px;
