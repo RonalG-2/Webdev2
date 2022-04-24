@@ -75,7 +75,7 @@ font-family: 'Ubuntu', sans-serif;
 .background{
     background: url('../bg1.jpg') ;
     background-size: cover;
-    background-blend-mode: lighten ;
+    background-blend-mode: darken ;
 }
 
 .firstSection{
