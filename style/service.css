@@ -8,9 +8,9 @@ body{
 }
 .bg
 {
-    background: url('../bgcollege.jpg') ;
+    background: rgba(0, 0, 0, 0.7) url('../bgcollege.jpg') ;
     background-size: cover;
-    opacity: 0.5S;
+    background-blend-mode: darken;
 
     
 }
