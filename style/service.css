@@ -8,7 +8,7 @@ body{
 }
 .bg
 {
-    background: url('../bg college.jpg') ;
+    background: url('../bg\ college.jpg') ;
     background-size: cover;
     opacity: 0.5S;
 
